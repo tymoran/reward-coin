@@ -1,5 +1,5 @@
 {
-  "name": "RewardCoin",
+  "name": "reward-coin",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/tymoran/RewardCoin.git"
+    "url": "github.com/tymoran/reward-coin.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tymoran <tymoran@protonmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
